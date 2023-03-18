@@ -1,0 +1,3 @@
+<?php //App%255CController%255CLogoutController%2523onLogoutSuccess
+
+return [PHP_INT_MAX, []];

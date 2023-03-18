@@ -1,0 +1,3 @@
+<?php //%5BC%5DApp%255CCommonBundle%255CListener%255CAccessTokenListener%2523getByAccessToken
+
+return [PHP_INT_MAX, 1679074459];

@@ -1,0 +1,3 @@
+<?php //App%255CCommonBundle%255CListener%255CAccessTokenListener
+
+return [PHP_INT_MAX, []];

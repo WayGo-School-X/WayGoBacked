@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1816e7a9-b2e7-4ae0-9592-79b9559ac146" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/config/routes.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/es6-promise/es6-promise.auto.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/es6-promise/es6-promise.auto.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fetch/fetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fetch/fetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/400.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/400.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/700.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/700.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-400-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-400-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-700-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-700-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-ext-400-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-ext-400-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-ext-700-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-ext-700-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-400-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-400-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-700-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-700-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-ext-400-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-ext-400-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-ext-700-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-ext-700-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-400-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-400-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-700-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-700-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-ext-400-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-ext-400-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-ext-700-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-ext-700-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-vietnamese-400-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-vietnamese-400-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-vietnamese-700-normal.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/fonts/open-sans/files/open-sans-vietnamese-700-normal.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/graphiql-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/graphiql-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/graphiql/graphiql.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/graphiql/graphiql.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/graphiql/graphiql.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/graphiql/graphiql.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/graphql-playground-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/graphql-playground-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/graphql-playground/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/graphql-playground/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/graphql-playground/middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/graphql-playground/middleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/init-common-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/init-common-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/init-graphiql.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/init-graphiql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/init-graphql-playground.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/init-graphql-playground.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/init-redoc-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/init-redoc-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/init-swagger-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/init-swagger-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/logo-header.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/logo-header.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/react/react-dom.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/react/react-dom.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/react/react.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/react/react.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/redoc/redoc.standalone.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/redoc/redoc.standalone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/oauth2-redirect.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/oauth2-redirect.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui-bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui-bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui-bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui-bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui-standalone-preset.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui-standalone-preset.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui-standalone-preset.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui-standalone-preset.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/swagger-ui/swagger-ui.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/web.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bundles/apiplatform/webby.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundles/apiplatform/webby.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataFixtures/UserFixtures.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFixtures/UserFixtures.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/createuser" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/willdurand/negotiation" />
+      <path value="$PROJECT_DIR$/vendor/api-platform/core" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/nelmio/cors-bundle" />
+      <path value="$PROJECT_DIR$/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2MpwvK7tOp8GMz3KTib86XcUVxu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/jesterquincy/PhpstormProjects/Controllerrrr",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/routes" />
+      <recent name="$PROJECT_DIR$/src/Controller" />
+      <recent name="$PROJECT_DIR$/config" />
+      <recent name="$PROJECT_DIR$/vendor/nelmio/cors-bundle/Resources/config" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/routes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1816e7a9-b2e7-4ae0-9592-79b9559ac146" name="Changes" comment="" />
+      <created>1678478061614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678478061614</updated>
+      <workItem from="1678478064578" duration="58000" />
+      <workItem from="1678478221480" duration="364000" />
+      <workItem from="1678478607379" duration="23000" />
+      <workItem from="1678478991624" duration="583000" />
+      <workItem from="1679386656305" duration="148000" />
+      <workItem from="1679387874659" duration="73000" />
+      <workItem from="1679523121812" duration="6406000" />
+      <workItem from="1679552074419" duration="14233000" />
+      <workItem from="1679569006889" duration="1377000" />
+      <workItem from="1679576722725" duration="3393000" />
+      <workItem from="1679595217469" duration="712000" />
+      <workItem from="1679596488572" duration="102000" />
+      <workItem from="1679596904265" duration="2585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

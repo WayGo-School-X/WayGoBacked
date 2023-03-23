@@ -1,0 +1,52 @@
+Index: config/routes.yaml
+===================================================================
+diff --git a/config/routes.yaml b/config/routes.yaml
+--- a/config/routes.yaml	
++++ b/config/routes.yaml	
+@@ -4,7 +4,3 @@
+         namespace: App\Controller
+     type: attribute
+ 
+-get_users]:
+-    path: '/users/{id}'
+-    controller: App\Controller\UserController::Get
+-    methods: ['GET']
+\ No newline at end of file
+Index: config/services.yaml
+===================================================================
+diff --git a/config/services.yaml b/config/services.yaml
+--- a/config/services.yaml	
++++ b/config/services.yaml	
+@@ -20,5 +20,6 @@
+             - '../src/Entity/'
+             - '../src/Kernel.php'
+ 
++
+     # add more service definitions when explicit configuration is needed
+     # please note that last definitions always *replace* previous ones
+Index: src/DataFixtures/UserFixtures.php
+===================================================================
+diff --git a/src/DataFixtures/UserFixtures.php b/src/DataFixtures/UserFixtures.php
+--- a/src/DataFixtures/UserFixtures.php	
++++ b/src/DataFixtures/UserFixtures.php	
+@@ -29,7 +29,7 @@
+         $usersData = [
+             0 => [
+                 'email' => 'user@example.com',
+-                'role' => ['USER'],
++                'role' => 'Alex',
+                 'password' => 123456
+             ]
+         ];
+@@ -38,9 +38,9 @@
+             $newUser = new User();
+             $newUser->setEmail($user['email']);
+             $newUser->setPassword($user['password']);
+-            $newUser->setRoles($user['role']);
++            $newUser->setName($user['role']);
+             $this->em->persist($newUser);
+-        }
++    }
+ 
+         $this->em->flush();
+     }

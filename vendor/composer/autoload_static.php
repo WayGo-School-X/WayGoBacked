@@ -1437,7 +1437,7 @@ class ComposerStaticInitc196e0612b46a0a00770244863a07dac
         'ApiPlatform\\Util\\SortTrait' => __DIR__ . '/..' . '/api-platform/core/src/Util/SortTrait.php',
         'ApiPlatform\\Validator\\Exception\\ValidationException' => __DIR__ . '/..' . '/api-platform/core/src/Validator/Exception/ValidationException.php',
         'ApiPlatform\\Validator\\ValidatorInterface' => __DIR__ . '/..' . '/api-platform/core/src/Validator/ValidatorInterface.php',
-        'App\\Kernel' => __DIR__ . '/../..' . '/src/Kernel.php',
+        'App\\Controller\\LogoutController' => __DIR__ . '/../..' . '/src/Controller/LogoutController.php',
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'Doctrine\\Bundle\\DoctrineBundle\\Attribute\\AsDoctrineListener' => __DIR__ . '/..' . '/doctrine/doctrine-bundle/Attribute/AsDoctrineListener.php',

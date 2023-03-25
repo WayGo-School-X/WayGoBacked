@@ -996,7 +996,7 @@ return array(
     'ApiPlatform\\Util\\SortTrait' => $vendorDir . '/api-platform/core/src/Util/SortTrait.php',
     'ApiPlatform\\Validator\\Exception\\ValidationException' => $vendorDir . '/api-platform/core/src/Validator/Exception/ValidationException.php',
     'ApiPlatform\\Validator\\ValidatorInterface' => $vendorDir . '/api-platform/core/src/Validator/ValidatorInterface.php',
-    'App\\Kernel' => $baseDir . '/src/Kernel.php',
+    'App\\Controller\\LogoutController' => $baseDir . '/src/Controller/LogoutController.php',
     'Attribute' => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'Doctrine\\Bundle\\DoctrineBundle\\Attribute\\AsDoctrineListener' => $vendorDir . '/doctrine/doctrine-bundle/Attribute/AsDoctrineListener.php',

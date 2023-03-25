@@ -2,6 +2,7 @@
 
 namespace App\Controller;
 
+use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Component\Security\Core\Authentication\Token\Storage\TokenStorageInterface;
@@ -9,10 +10,12 @@ use Symfony\Component\Security\Core\Authentication\Token\Storage\TokenStorageInt
 class LogoutController
 {
     private $tokenStorage;
+    private $entityManager;
 
-    public function __construct(TokenStorageInterface $tokenStorage)
+    public function __construct(TokenStorageInterface $tokenStorage, EntityManagerInterface $entityManager)
     {
         $this->tokenStorage = $tokenStorage;
+        $this->entityManager = $entityManager;
     }
 
     /**
@@ -21,8 +24,22 @@ class LogoutController
 
     public function logout(): Response
     {
-        // Удаляем токен из системы
-        $this->tokenStorage->setToken(null);
+        // Получаем текущий токен из хранилища токенов
+        $token = $this->tokenStorage->getToken();
+
+        if (null !== $token) {
+            $tokenValue = $token->getUser();
+
+            if ($tokenValue instanceof Token) {
+                $tokenValue->setRevoked(true);
+
+                $this->entityManager->persist($tokenValue);
+                $this->entityManager->flush();
+            }
+
+            // Удаляем токен из системы
+            $this->tokenStorage->setToken(null);
+        }
 
         return new Response('You have been successfully logged out');
     }
